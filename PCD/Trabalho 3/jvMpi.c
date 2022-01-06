@@ -149,7 +149,7 @@ int main(int argc, char* argv[]){
     int lin = 1, col = 1, i, j;
     int **grid;
     
-	int *newGrid = (int*)malloc(sizeof(int)*SIZE*SIZE);
+    int *newGrid = (int*)malloc(sizeof(int)*SIZE*SIZE);
 	
     //Definindo a matriz
     grid = (int**)malloc(sizeof(int*) * SIZE);
