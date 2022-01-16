@@ -3,7 +3,7 @@
 -- - Name:        MTTCasePOIntegrationRestService 
 -- - @Author: 	  Nicoli Ferreira
 -- - Description: Class that processes the 1st integration with eParts, 
--- -			  creating the Case and the PO if they do not exist.
+-- -		  creating the Case and the PO if they do not exist.
 -- -------------------------------------------------------------------------------------------------
 */
 
