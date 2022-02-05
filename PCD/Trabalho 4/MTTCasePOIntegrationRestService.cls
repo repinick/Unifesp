@@ -104,7 +104,7 @@ public class MTTCasePOIntegrationRestService{
         
  		Messaging.SingleEmailMessage mail = new Messaging.SingleEmailMessage();
  		
-        String[] toAddresses = new String[] {'sjkpartsrequest@embraer.com.br'}; 
+        String[] toAddresses = new String[] {'testrequest@embraer.com.br'}; 
   		mail.setToAddresses(toAddresses);
 
    		// The email template ID used for the email
