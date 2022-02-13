@@ -3,7 +3,7 @@
 -- - Name:        MTTCasePOIntegrationRestService 
 -- - @Author: 	  Nicoli Ferreira
 -- - Description: Class that processes the 1st integration with Parts Portal Web, 
--- -			  creating the PO if they do not exist.
+-- -		  creating the PO if they do not exist.
 -- -------------------------------------------------------------------------------------------------
 */
 
